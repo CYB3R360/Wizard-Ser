@@ -1,5 +1,5 @@
 {
-  "name": "Wizard-Ser",
+  "name": "ABHI-SER",
   "version": "1.1.2",
   "description": "WhatsApp Bot",
   "main": "index.js",
@@ -19,7 +19,7 @@
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "Ajmal-Achu",
+  "author": "ABHI-SER",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Ajmal-Achu/Wizard-Ser/issues"
